@@ -1,1 +1,1 @@
-Build image for gitlab ci
+Simple build image for gitlab ci with git installed
